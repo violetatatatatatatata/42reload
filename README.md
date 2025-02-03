@@ -1,6 +1,4 @@
-# Libft.h - Function Descriptions
-
-This repository contains various functions implemented in **libft.h**, a custom C library. Below is a description of each function included.
+# Piscine Reload - Function Descriptions
 
 ---
 
